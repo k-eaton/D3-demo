@@ -1,3 +1,12 @@
+html {
+  padding: 40px;
+}
+
+svg {
+  margin: 40px;
+}
+
+
 div.bar {
     display: inline-block;
     width: 20px;
